@@ -1,18 +1,16 @@
 ![Header](./github-header-image.png)
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
  😍 I’m a **Front-end web development Jr.**
 
- 🌱 I’m currently learning **HTTP requests in JavaScript**
+ 🏠 I’m living in Mexico City
+
+ 👨‍💻 See my portafolio at [http://resume-umber-three.vercel.app/](http://resume-umber-three.vercel.app/)
+
+ 🌱 I’m currently learning about **HTTP requests in JavaScript**
 
  🌱 I’m currently learning **React**
- 
- 👨‍💻 All of my projects are available at [http://resume-umber-three.vercel.app/](http://resume-umber-three.vercel.app/)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="outloook" height="30" width="37" /></a> alvarezpestefania@outlook.com</p>
-<p align="left"><a href="https://linkedin.com/in/estefanía priscila alvarez palma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> estefanía priscila alvarez palma</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -27,5 +25,7 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
-
+<h3 align="left">You can connect with me:</h3>
+<p align="left"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="outloook" height="30" width="37" /> alvarezpestefania@outlook.com</p>
+<p align="left"><a href="https://linkedin.com/in/estefanía priscila alvarez palma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> estefanía priscila alvarez palma</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanyalvarez&show_icons=true&theme=dark&title_color=e184de&text_color=ffffff&bg_color=0d0d0d&locale=en&layout=compact" alt="fanyalvarez" /></p>
