@@ -10,7 +10,7 @@
 
 <h3 align="left">You can connect with me:</h3>
     <p align="left"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="outloook" height="30" width="37" /> alvarezpestefania@outlook.com</p>
-    <p align="left"><a href="https://linkedin.com/in/estefanía priscila alvarez palma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> estefanía priscila alvarez palma</p><br/>
+    <p align="left"><a href="https://linkedin.com/in/estefanía priscila alvarez palma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> estefanía priscila alvarez palma</p>
         
 
   <div align="center">
