@@ -1,16 +1,19 @@
 ![Header](./github-header-image.png)
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
-
-  😍 I’m a **Front-end web development Jr.**<br/>
+<img align='right' pading='5' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='500"'>
+  <div align="left">
+ 😍 I’m a **Front-end web development Jr.**<br/>
   🏠 I’m living in **Mexico City**<br/>
-  👨‍💻 See my portafolio at [https://portafolio-lemon-beta.vercel.app/](https://portafolio-lemon-beta.vercel.app/)<br/>
+  👨‍💻 See my portafolio at https://portafolio-lemon-beta.vercel.app/ <br/>
   🌱 I’m currently learning **React**<br/>
   📨 Connect with me alvarezpestefania@outlook.com<br/>
-  📨 Connect with me [estefanía priscila alvarez palma](https://www.linkedin.com/in/estefania-priscila-alvarez-palma/) on Linkedin<br/>
+  📨 Connect with me   [linkedin](www.linkedin.com/in/estefp-alvarezp)    <br/>
 
-  <div align="center">
-   <h3 align="center">Languages and Tools:</h3><br/>
+
+    
+ </div>
+   <h3 align="left">Languages and Tools:</h3><br/>
+    <div align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
