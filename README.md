@@ -5,7 +5,7 @@
 	  🏠 I’m living in *Mexico City* <br/>
 	  👨‍💻 See my portafolio at [here](https://portafolio-lemon-beta.vercel.app/)<br/>
 	 🌱 I’m currently learning **React**<br/>
-	  📨 Connect with me [email](alvarezpestefania@outlook.com)<br/>
+	  📨 Connect with me alvarezpestefania@outlook.com<br/>
 	  📨 Connect with me [Linkedin](www.linkedin.com/in/estefp-alvarezp)  
 	 </div>
 	
