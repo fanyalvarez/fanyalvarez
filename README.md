@@ -3,7 +3,7 @@
 	<div align='left'>
 	 	😍 I’m a **Front-end web development Jr**. <br/>
 	  🏠 I’m living in *Mexico City* <br/>
-	  👨‍💻 See my portafolio at [here](http://resume-umber-three.vercel.app/)<br/>
+	  👨‍💻 See my portafolio at [here](https://portafolio-lemon-beta.vercel.app/)<br/>
 	 🌱 I’m currently learning **React**<br/>
 	  📨 Connect with me [email](alvarezpestefania@outlook.com)<br/>
 	  📨 Connect with me [Linkedin](www.linkedin.com/in/estefp-alvarezp)  
@@ -17,6 +17,7 @@
       <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/>  
       <img alt="react" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/>  
       <img alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>       <img alt="tailwindcss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>  
+      <img alt="node" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/>
       <img alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
       <img alt="github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/>  
       <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="40" height="40"/>  
