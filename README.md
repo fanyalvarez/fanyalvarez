@@ -6,7 +6,7 @@
 	  👨‍💻 See my portafolio at [here](https://portafolio-lemon-beta.vercel.app/)<br/>
 	 🌱 I’m currently learning **React**<br/>
 	  📨 Connect with me alvarezpestefania@outlook.com<br/>
-	  📨 Connect with me [Linkedin](www.linkedin.com/in/estefp-alvarezp)  
+	  📨 Connect with me www.linkedin.com/in/estefp-alvarezp
 	 </div>
 	
    <h3 align="left">Languages and Tools:</h3><br/>
